@@ -1,9 +1,6 @@
 ### Hola , i'm Khalid 👋
 
-<!--
-**shakil51298/shakil51298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<img align="right" alt="GIF" src="/gif/59446-black-guy-animation.gif" width="500" height="320" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ### Talk with me, I am kinda awesome:
 <img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
