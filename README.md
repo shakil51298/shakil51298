@@ -1,16 +1,23 @@
-### Hola , i'm Khalid 👋
+<h1 align="center">Hola , I'm Md Khalid 👋</h1>
 
 <img align="right" alt="GIF" src="/gif/59446-black-guy-animation.gif" width="500" height="500" />
 
 
 ##  A Front-end developer | A quick learner | A tech writer
 - ✍ You can find my projects here [portfolio](https://myportfoliofinal-14e4e.web.app/)
+
 - 🌱 I’m currently learning Java
+
 - 👯 I’m looking to collaborate on open source
+
 - 🤔 I’m looking for help with React.js , javascript.
+
 - 💬 Ask me about anything.
+
 - 📫 How to reach me: [personal website](https://myportfoliofinal-14e4e.web.app/) , [email](mailto:zikaiwen02@gmail.com) , [linkedin](https://www.linkedin.com/in/shakil51298/)
+
 - 😄 Pronouns: He/His
+
 - ⚡ Fun fact: I like to coocking!
 
 <br />
