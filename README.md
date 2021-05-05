@@ -1,21 +1,22 @@
 ### Hola , i'm Khalid 👋
 
-<img align="right" alt="GIF" src="/gif/59446-black-guy-animation.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="/gif/59446-black-guy-animation.gif" width="500" height="500" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-### Talk with me, I am kinda awesome:
-<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+##  A Front-end developer | A quick learner | A tech writer
+- ✍ You can find my projects here [portfolio](https://myportfoliofinal-14e4e.web.app/)
+<!-- - 🔭 I’m currently working on my -->
+- 🌱 I’m currently learning Java
+- 👯 I’m looking to collaborate on open source
+- 🤔 I’m looking for help with React.js , javascript.
+- 💬 Ask me about anything.
+- 📫 How to reach me: [personal website](https://myportfoliofinal-14e4e.web.app/) , [email](mailto:zikaiwen02@gmail.com) , [linkedin](https://www.linkedin.com/in/shakil51298/)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I like to coocking!
 
 <br />
-### Languages and Tools:
+### Languages and tools: 
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
