@@ -1,4 +1,4 @@
-<h1 align="center">Hola , I'm Md Khalid 👋</h1>
+<h1 align="center">Hello , I'm Md Khalid 👋</h1>
 
 <img align="right" alt="GIF" src="/gif/59446-black-guy-animation.gif" width="500" height="500" />
 
