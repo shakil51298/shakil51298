@@ -1,6 +1,6 @@
 <h1 align="center">Hello , I'm Md Khalid 👋</h1>
 
-<p align="left"> ![](https://komarev.com/ghpvc/?username=shakil51298&color=red)
+![](https://komarev.com/ghpvc/?username=shakil51298&color=red)
 <img align="right" alt="GIF" src="/gif/59446-black-guy-animation.gif" width="500" height="500" />
 
 
