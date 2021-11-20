@@ -75,11 +75,11 @@
 <!-- most used lang-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakil51298&show_icons=true&locale=en&layout=compact" alt="shakil" /></p>
 
-
+<br>
 <!--stats-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakil51298&show_icons=true&locale=en" alt="shakil51298" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakil51298" alt="shakil" /></p>
 
 
